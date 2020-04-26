@@ -23,7 +23,7 @@ INSTALL_REQUIRES = (
     'scipy>=0.19.0',
     'networkx>=2.2',
     'matplotlib>=2.0.0',
-    'sklearn>=0.21.2',
+    'sklearn>=0.19.1',
     'theano>=0.9.0',
     'keras==2.0.2'
 )
